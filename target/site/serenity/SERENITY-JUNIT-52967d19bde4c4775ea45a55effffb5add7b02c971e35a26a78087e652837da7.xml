@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name=": Registrar un usuario en utest" skipped="0" tests="1" time="64.01" timestamp="2022-08-12 10:03:20"><testcase name="el usuario quiere registrarse en la pagina web"><error message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[@class= 'btn btn-blue']&#10;&quot;}&#10;  (Session info: chrome=103.0.5060.53)&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'ALEX-PC', ip: '192.168.0.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\alexj\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54495}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 7dc88fbd99aea1a361c1783828de51a0&#10;*** Element info: {Using=xpath, value=//a[@class= 'btn btn-blue']&#10;}" type="java.lang.AssertionError">no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class= 'btn btn-blue']
+"}
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ALEX-PC', ip: '192.168.0.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\alexj\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54495}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7dc88fbd99aea1a361c1783828de51a0
+*** Element info: {Using=xpath, value=//a[@class= 'btn btn-blue']
+}</error><system-err>no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class= 'btn btn-blue']
+"}
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ALEX-PC', ip: '192.168.0.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\alexj\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54495}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7dc88fbd99aea1a361c1783828de51a0
+*** Element info: {Using=xpath, value=//a[@class= 'btn btn-blue']
+}&#13;
+co.com.choucair.utest_automatizacion.stepdefinitions.UtestStepDefinitions.elUsuarioHaCompletadoElRegistroEnSLaPaginaDeUtest(UtestStepDefinitions.java:49)&#13;
+✽.el usuario ha completado el registro enS la pagina de Utest(src/test/resources/features/ustestPasos.feature:12)&#13;
+</system-err></testcase></testsuite>
